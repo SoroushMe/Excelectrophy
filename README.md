@@ -7,10 +7,10 @@ A Lightweight Linux-based Monkey Electrophysiology Experiment Software for Resea
 - SR Research [EyeLink 1000 Plus](https://www.sr-research.com/eyelink-1000-plus/) as Eyetracker
 - Arduino Uno Microcontroller Board to Handle Input/Outputs and ADC
 - A Phototransostor to Detect Vertical Retrace of Display
-- A Reward Dispenser to Proveide Positive Feedback to Subject
+- A Reward Dispenser to Provide Positive Feedback to Subject
 
 ### Main Capabilities
-**This software can perform the following tasks**
+**This software can perform the following**
 - Present Stimuli
 - Synchronize Behavioral Experiment Events With Neural Data
 - Dynamically Manipulate Experiment Parameters During Experiment Runtime
