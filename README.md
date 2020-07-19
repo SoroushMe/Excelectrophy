@@ -1,4 +1,4 @@
-# Celectrophy
+# Excelectrophy
 A Lightweight Monkey Electrophysiology Experiment and Analysis Suite for Research Laboratories.
 
 Experiment Software is C-Based and Targeted to Run on Linux for Maximum Flexibility and High Performance.
