@@ -24,7 +24,7 @@ Input/Outputs of Experiment Events and Photodiode and Reward Signal are written 
 - Provide Different Views of the Experiment with Different Levels of Information for Subject and Experimenter in Multi-Display Setups
 
 ### Sample Experiments
-Current version of the software is developed to work with the following setup
+Sample Experiment and Analysis Codes for Following Tasks are Currently Included
 - Fixation Task
 - Receptive Field Mapping Task
 - Force Task
