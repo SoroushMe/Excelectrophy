@@ -1,14 +1,14 @@
 # Excelectrophy
 A Lightweight Monkey Electrophysiology Experiment and Analysis Suite for Research Laboratories.
 
-Experiment Software is C-Based and Targeted to Run on Linux for Maximum Flexibility and High Performance.
+Experiment Software is C-Based and Runs on Linux for Maximum Flexibility and High Performance.
 
-Online Neural Analyzes are and Offline  and  are Written in Matlab. 
+All Online and Offline Analysis Codes are Written in Matlab.
 
 Input/Outputs of Experiment Events and Photodiode and Reward Signal are written in C for Arduino Uno.
 
 
-### Compatible Setup
+### Compatible Experiment Setup
 **Current version of the software is developed to work with the following setup**
 - Blackrock Microsystems [CerePlex Direct](https://www.blackrockmicro.com/neuroscience-research-products/neural-data-acquisition-systems/cereplex-direct-daq/) as Data Acquisition System (DAQ)
 - SR Research [EyeLink 1000 Plus](https://www.sr-research.com/eyelink-1000-plus/) as Eyetracker
