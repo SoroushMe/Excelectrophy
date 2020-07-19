@@ -43,6 +43,6 @@ sudo apt-get install eyelink-display-software
 
 ## References
 <a id="1">[1]</a> 
-A Ghazizadeh, et al. (2016). 
+A. Ghazizadeh, et al. (2016). 
 [Object-finding skill created by repeated reward experience](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5015994/)
 
