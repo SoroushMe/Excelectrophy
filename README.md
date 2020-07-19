@@ -18,7 +18,10 @@ A Lightweight Linux-based Monkey Electrophysiology Experiment Software for Resea
 
 ### Sample Experiments
 - Fixation Task
-
+- Receptive Field Mapping Task
+- Force Task
+- Force and Choice Task
+- Search Task [[1]](#1)
 
 ## Installation
 The following are the installation steps for ubuntu 18.04.4 LTS (Bionic Beaver)
@@ -36,3 +39,10 @@ sudo add-apt-repository "deb http://download.sr-support.com/software SRResearch 
 sudo apt-get update
 sudo apt-get install eyelink-display-software
 ```
+
+
+## References
+<a id="1">[1]</a> 
+A Ghazizadeh, et al. (2016). 
+[Object-finding skill created by repeated reward experience](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5015994/)
+
