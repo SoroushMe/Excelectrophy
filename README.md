@@ -16,6 +16,10 @@ A Lightweight Linux-based Monkey Electrophysiology Experiment Software for Resea
 - Dynamically Manipulate Experiment Parameters During Experiment Runtime
 - Provide Different Views of the Experiment with Different Levels of Information for Subject and Experimenter in Multi-Display Setups
 
+### Sample Experiments
+- Fixation Task
+
+
 ## Installation
 The following are the installation steps for ubuntu 18.04.4 LTS (Bionic Beaver)
 
