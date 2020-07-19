@@ -1,5 +1,12 @@
 # Celectrophy
-A Lightweight Linux-based Monkey Electrophysiology Experiment Software for Research Laboratories Written in C.
+A Lightweight Monkey Electrophysiology Experiment and Analysis Suite for Research Laboratories.
+
+Experiment Software is C-Based and Targeted to Run on Linux for Maximum Flexibility and High Performance.
+
+Online Neural Analyzes are and Offline  and  are Written in Matlab. 
+
+Input/Outputs of Experiment Events and Photodiode and Reward Signal are written in C for Arduino Uno.
+
 
 ### Compatible Setup
 **Current version of the software is developed to work with the following setup**
@@ -17,6 +24,7 @@ A Lightweight Linux-based Monkey Electrophysiology Experiment Software for Resea
 - Provide Different Views of the Experiment with Different Levels of Information for Subject and Experimenter in Multi-Display Setups
 
 ### Sample Experiments
+Current version of the software is developed to work with the following setup
 - Fixation Task
 - Receptive Field Mapping Task
 - Force Task
